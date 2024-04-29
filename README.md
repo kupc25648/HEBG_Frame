@@ -1,7 +1,7 @@
 # HEBG_Frame
 
 ## Supplemental 3D models for the following paper:
-The data will be updated soon. Please stay tuned.
+- [To be added]
 
 ## To visualize the 3D
 We use Plotly to save interactive HTML versions of our 3D plot of the building frames.<br>
